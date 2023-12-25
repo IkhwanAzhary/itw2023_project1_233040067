@@ -752,6 +752,12 @@ form .send-btn:hover {
     }
 }
 
+@media (max-width: 380px) {
+    .skill-content {
+        width: 300px;
+    }
+}
+
 @keyframes html {
     0% {
         width: 0%;
