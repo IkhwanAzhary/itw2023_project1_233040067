@@ -716,6 +716,9 @@ form .send-btn:hover {
     .hero-img {
         margin-left: 20px;
     }
+    .main-content p {
+        color: var(--main-color);
+    }
 }
 
 @media (max-width: 470px) {
